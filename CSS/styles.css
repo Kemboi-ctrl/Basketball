@@ -1,0 +1,77 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+}
+li, a, button{
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #b43b08;
+}
+.Links{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    padding: 0 20px;
+    color: aliceblue;
+}
+.Links{
+    color: aliceblue;
+}
+.Links a{
+    color: aliceblue;
+}
+h1{
+    font-size: 400%;
+}
+ h1, h2{
+    color: #b43b08
+}
+h2{
+    margin: 25;
+    line-height: 1.5;
+}
+p{
+    line-height: 2;
+}
+.Head{
+    background: url(../img/B4.jpg) center / cover;
+    margin: 100px 100px 200px 100px;
+    padding: 15%;
+}
+.Intro{
+    width: 30%;
+    float: left;
+    margin: 20px;
+}
+.Bel{
+    width: 25%;
+    float: right;
+    margin: 20px;
+}
+.B3{
+    height: 25%;
+    width: 50%;
+    margin-top: 100px;
+}
+.Left{
+    text-align: left;
+}
+#Introduction{
+    margin-bottom: 100px;
+}
+img{
+    border-radius: 10px;
+}
+#Belifs{
+   margin-bottom: 100px;
+}
+
+      
